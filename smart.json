@@ -1,0 +1,9 @@
+{
+  "name": "SCEditor wrapped as meteor package",
+  "description": "Meteor-wrapper of SCEditor - A lightweight WYSIWYG BBCode and XHTML editor.",
+  "homepage": "http://www.sceditor.com/",
+  "author": "Anton Danielsson",
+  "version": "0.1.0",
+  "git": "https://github.com/LearningWellWest/meteor-SCEditor-pkg.git",
+  "packages": {}
+}

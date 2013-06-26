@@ -1,4 +1,2 @@
-meteor-SCEditor-pkg
-===================
+# [SCEditor](http://www.sceditor.com/) v1.4.3
 
-Meteor-wrapper of SCEditor - A lightweight WYSIWYG BBCode and XHTML editor.
