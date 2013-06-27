@@ -11,7 +11,7 @@ Package.on_use(function (api) {
     'minified/plugins/format.js',
     'minified/plugins/xhtml.js',
     'minified/themes/default.min.css',
-    'minified/themes/famfamfam.png'.
+    'minified/themes/famfamfam.png',
     'emoticons/alien.png',
     'emoticons/angel.png',
     'emoticons/angry.png',
