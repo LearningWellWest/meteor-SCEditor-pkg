@@ -12,7 +12,7 @@ Package.on_use(function (api) {
     'minified/plugins/xhtml.js',
     'minified/themes/default.min.css',
     'minified/themes/famfamfam.png',
-    'emoticons/alien.png',
+    '/emoticons/alien.png',
     'emoticons/angel.png',
     'emoticons/angry.png',
     'emoticons/blink.png',
@@ -40,14 +40,14 @@ Package.on_use(function (api) {
     'emoticons/sleeping.png',
     'emoticons/silly.png',
     'emoticons/smile.png',
-    'emoticons/tounge.png',
+    'emoticons/tongue.png',
     'emoticons/unsure.png',
     'emoticons/w00t.png',
     'emoticons/wassat.png',
     'emoticons/whistling.png',
     'emoticons/wink.png',
-    'emoticons/wub.png',
-    ,
+    '/emoticons/wub.png',
+    'wub.png',
   ], 'client'
   );
 });
